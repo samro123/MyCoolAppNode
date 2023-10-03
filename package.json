@@ -5,13 +5,13 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/samro123/MyCoolAppNode.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/samro123/MyCoolAppNode/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/samro123/MyCoolAppNode#readme"
   
 }
